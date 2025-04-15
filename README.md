@@ -1,4 +1,4 @@
-# 🧠 Balance Analytics from Force Plate Data
+# 🧠 Understanding the Effects on Balance for Elite Platform Divers Using Machine Learning
 
 This project leverages machine learning and deep learning to analyze balance metrics from force plate data collected from elite Division I platform divers. It aims to predict **anterior-posterior (AP) sway**, **medial-lateral (ML) sway**, **trial type**, and **subject identity** based on raw force and moment data.
 
